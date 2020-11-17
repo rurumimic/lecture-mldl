@@ -1,4 +1,4 @@
-# ML Prcoess
+# ML Process
 
 ## Sample, Explore, Modify, Model, and Assess
 
