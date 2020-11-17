@@ -108,7 +108,7 @@ Wiki: [Cross-industry standard process for data mining](https://en.wikipedia.org
   - 학습할때: Train Set(모델 생성), Test Set(모델 성능 검증)
   - 실전에서: Validation Set(모델 성능 검증), Test Set(모델 최종 평가)
 
-데이터셋 부닐 -> 변수, 알고리즘 선택 -> 모델 학습 -> 검증 -> (변수, 알고리즘 선택)
+데이터셋 분리 -> 변수, 알고리즘 선택 -> 모델 학습 -> 검증 -> (변수, 알고리즘 선택)
 
 #### Evaluation
 
