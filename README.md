@@ -5,10 +5,10 @@
 ## 과정
 
 - [ML Process](01.ML.Process/README.md)
-- Regression
+- [Regression](02.Regression/README.md)
   - 알고리즘: Linear Regression, KNN
   - 회귀모형 평가
-- Classification
+- [Classification](03.Classification/README.md)
   - 알고리즘: Logistic Regression, Decision Tree, Artificial Neural Net
 - Hyper Parameter Tuning
   - Random Search
