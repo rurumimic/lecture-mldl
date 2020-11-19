@@ -10,7 +10,7 @@
   - 회귀모형 평가
 - [Classification](03.Classification/README.md)
   - 알고리즘: Logistic Regression, Decision Tree, Artificial Neural Net
-- Hyper Parameter Tuning
+- [Hyper Parameter Tuning](04.Hyperparameter/README.md)
   - Random Search
   - Grid Search
 - 일반화 성능과 Overfitting
