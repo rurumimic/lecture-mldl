@@ -13,16 +13,6 @@
 - 과적합 가능
 - 목표: 적절한 예측력 + 적절한 복잡도
 
-## 일반화와 과적합화
-
-- 모든 데이터셋 ⊂ 모집단
-- 목표: 부분집합 학습 -> 모집단 적절히 예측
-- Generalization: 부분집합(training set) 학습 모델 -> 다른 부분집합에서 적용 가능한가?
-- k-fold cross validation: 모든 데이터가 Test 1번, Train k-1번 사용됨
-- Learning Curves: 훈련셋의 크기가 커지면 일반화된 성능이 향상된다.
-- Fitting Graph: 적합도 그래프로 과적합 측정
-  - 모델이 복잡할 수록 과적합화
-
 ---
 
 ## Bike
