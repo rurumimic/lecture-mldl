@@ -4,6 +4,8 @@
 
 ## 과정
 
+### ML
+
 - [ML Process](01.ML.Process/README.md)
 - [Regression](02.Regression/README.md)
   - 알고리즘: Linear Regression, KNN
@@ -20,6 +22,11 @@
   - Bagging: Random Forest
   - Boosting: XGBoost
   - Stacking
+
+### Mid
+
+- [Mid](07.Mid/README.md)
+- [Mid 2](07.Mid/2.md)
 
 ## 목표
 
